@@ -1,0 +1,20 @@
+body  {
+	background-image:url("naturewall.jpg");
+}
+
+.computer {text-align: center}
+
+
+.god {text-align:center;color: white}
+
+.divcolor {color:white;} 
+
+
+.baktashwaqibeen{display: flex; flex-direction: row;}
+
+h2,p {color:white;}
+
+img{width:150px; float: right; margin-top:-100px;}
+.Microsoft{display:flex;
+flex-direction:column;
+

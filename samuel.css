@@ -1,0 +1,118 @@
+body
+{
+	background-image:url('https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fs1.picswalls.com%2Fwallpapers%2F2014%2F02%2F23%2Fdesert-wallpapers_111710402_32.jpg&f=1&nofb=1');
+	background-size:cover;
+	color:black ;
+	font-family:'Serif';
+}
+
+#head
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	width:100%;
+}
+
+#test
+{
+	display:flex;
+	flex-direction:row;
+}
+
+#head img
+{
+	width:200px;
+	border-radius:25px;
+}
+
+#description
+{
+	display:flex;
+	flex-direction:row;
+}
+
+#description p
+{
+	margin-left:40px;
+	font-size:1.2em;
+} 
+
+#description a
+{
+	border-bottom:1px solid blue;
+}
+
+#CV
+{
+	min-width:50%;
+	display:flex;
+	flex-direction:row;
+}
+
+#professionnal, #personnal
+{
+	margin:50px;
+}
+
+h2
+{
+	padding:5px;
+	border-bottom:2px solid black;
+	border-top:2px solid black;
+	text-shadow:4px 5px 10px grey;
+}
+
+h3
+{
+	border-bottom:1px solid black;
+	font-size:1.4em;
+	text-shadow:4px 5px 5px black;
+
+}
+
+ul
+{
+	list-style:none;
+}
+
+li 
+{
+	margin-left:-40px;
+	font-size:1.2em;
+	text-shadow:4px 5px 10px black;
+	font-style:bold;
+}
+
+a
+{
+	color:blue;
+	text-decoration:none;
+}
+
+#codeList
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+
+#pictureZone img
+{
+	width:250px;
+}
+
+table
+{
+	margin-top:100px;
+	width:700px;
+	font-size:1.6em;
+	border:2px solid black;
+	background-color:rgba(255,165,0,0.2);
+}
+
+td
+{
+	border:2px solid black;
+	text-align:center; 
+}
